@@ -1,0 +1,54 @@
+
+
+.ui.borderless.topmenu.menu{
+  background-color:#0D60A2;
+  align-items: center;
+  horiz-align: center;
+}
+
+
+.ui.text{
+  color:white;
+}
+
+
+
+.ui.container.playnow.segment{
+  background-color: #0D60A2;
+  color:white;
+  text-align: center;
+  box-shadow: black;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+  align-items: center;
+  width: 150px;
+  height: 50px;
+}
+
+.ui.container.language.segment{
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  box-shadow: black;
+  align-items: center;
+}
+
+
+.ui.borderless.bottommenu.menu{
+  background-color: #1AA0C1;
+  margin: 5% 15% 5% 15%;
+  height: 60%;
+  padding: 2%;
+  font-size: x-small;
+  font-stretch: expanded;
+
+}
+
+.ui.header{
+  color:white;
+}
+
+.ui.bottompage.button{
+  background-color: #D3FCFF;
+  border-radius: 10%;
+  color: #0D60A2;
+}
